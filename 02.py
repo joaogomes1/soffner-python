@@ -6,3 +6,4 @@ elif int(userInput) < 0:
     print("O número informado é menor que zero.")
 else:
     print("O número informado é zero.")
+    
