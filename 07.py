@@ -17,9 +17,7 @@ while ( op < 1 or op > 5 ):
                         # by the '<' and '>' operators, in the while loop.
                         # Assigns -1, to force a new iteration.
     else:               
-        op = int(op)   
-    
-    # Prepares for new evaluaton, in the while loop.
+        op = int(op)    # Prepares for new evaluaton, in the while loop.
             
 if op == 1:
     time = "corinthians"
